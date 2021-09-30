@@ -1,0 +1,19 @@
+{
+  "name": "@convivainc/conviva-js-daisdk",
+  "version": "4.1.0",
+  "description": "Conviva Google IMA DAI SDK module",
+  "main": "conviva-googledai-module.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-daisdk.git"
+  },
+  "keywords": [
+    "googledai",
+    "ads"
+  ],
+  "author": "Conviva Inc",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-daisdk/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-daisdk#readme"
+}
