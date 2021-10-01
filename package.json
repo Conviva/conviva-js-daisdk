@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Conviva/conviva-js-daisdk/issues"
   },
-  "homepage": "https://github.com/Conviva/conviva-js-daisdk#readme"
+  "homepage": "https://github.com/Conviva/conviva-js-daisdk#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
 }
