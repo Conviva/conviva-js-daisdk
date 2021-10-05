@@ -13,6 +13,11 @@ The Conviva JavaScript Google IMA DAI SDK module is built on top of <a href="htt
 ```
 npm install @convivainc/conviva-js-daisdk --save
 ```
+## Install via yarn 
+
+```
+yarn add @convivainc/conviva-js-daisdk
+```
 
 ## Note:
 * Refer https://community.conviva.com/ for integration guidelines.
