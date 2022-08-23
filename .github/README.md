@@ -9,16 +9,6 @@ Via html:
 <script type="text/javascript" src="<PATH>/conviva-core-sdk.js"></script>
 <script type="text/javascript" src="<PATH>/conviva-googledai-module.js"></script>
 ```
-Via import/require:
-```
-const Conviva = require('<path>/conviva-js-coresdk');
-const ConvivaGoogledaiModule = require('<path>/conviva-googledai-module');
-```
-
-```
-import Conviva from '@convivainc/conviva-js-coresdk'
-import ConvivaGoogledaiModule from'@convivainc/conviva-googledai-module '
-```
 
 ## Install via npm 
 
@@ -30,6 +20,16 @@ npm install @convivainc/conviva-js-daisdk --save
 ```
 yarn add @convivainc/conviva-js-daisdk
 ```
+Refer to following sample code to include Google IMA DAI SDK modules followed by Conviva modules.
 
+Via import/require:
+```
+import Conviva from '@convivainc/conviva-js-coresdk'
+import ConvivaGoogledaiModule from'@convivainc/conviva-js-daisdk'
+```
+```
+const Conviva = require('<path>/conviva-js-coresdk');
+const ConvivaGoogledaiModule = require('<path>/conviva-js-daisdk');
+```
 ## Note:
 * Refer https://community.conviva.com/ for integration guidelines.
