@@ -1,6 +1,9 @@
 
 # Changelog
 
+### 4.2.1 (11/DEC/2022)
+* Supports Typescript. 
+
 ## 4.2.0 (10/DEC/2021)
 * Uses new API VideoAnalytics.setAdAnalytics() for the delegation of Ad Metrics from Video Analytics to Ad Analytics instance(Core SDK 4.5.1 and above)
 
