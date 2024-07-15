@@ -1,6 +1,9 @@
 
 # Changelog
 
+### 4.2.3 (15/JULY/2023)
+* Added c3.ad.podIndex to ad session metadata. 
+
 ### 4.2.1 (11/DEC/2022)
 * Supports Typescript. 
 
